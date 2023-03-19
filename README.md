@@ -10,7 +10,6 @@
 ![vs-code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
 
-<br>
 
 # Github Statistics
 
@@ -22,6 +21,6 @@
 
 <div>
   <a href="https://github.com/rabiapp">
-  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=rabiapp&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabiapp&layout=compact&langs_count=7&theme=radical"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=rabiapp&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabiapp&layout=compact&langs_count=7&theme=radical"/>
 </div>

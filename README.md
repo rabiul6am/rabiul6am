@@ -3,8 +3,6 @@
 🖊️ Love to write code <br>
 🎤 Like to share my knowledge <br>
 
-![Profile views](https://gpvc.arturio.dev/rabiapp)  
-
 ### Favorite IDEs/Editors 
 
 ![vs-code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)

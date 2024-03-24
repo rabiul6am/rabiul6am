@@ -11,14 +11,14 @@
 
 # Github Statistics
 
-![Visitor](https://komarev.com/ghpvc/?username=rabiappz&color=blueviolet&style=flat-square) 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/rabiapp)
+![Visitor](https://komarev.com/ghpvc/?username=rabiul6amz&color=blueviolet&style=flat-square) 
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/rabiul6am)
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square&color=brightgreen)
-![Last-commit](https://img.shields.io/github/last-commit/rabiapp/rabiapp?style=flat-square&color=blueviolet)
+![Last-commit](https://img.shields.io/github/last-commit/rabiul6am/rabiul6am?style=flat-square&color=blueviolet)
 
 
 <div>
-  <a href="https://github.com/rabiapp">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=rabiapp&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabiapp&layout=compact&langs_count=7&theme=radical"/>
+  <a href="https://github.com/rabiul6am">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=rabiul6am&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabiul6am&layout=compact&langs_count=7&theme=radical"/>
 </div>
